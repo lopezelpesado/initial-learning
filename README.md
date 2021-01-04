@@ -11,3 +11,5 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 3. OK so when I make changes to a file I can press ctrl+s (save) and then my changes got to the Git panel as unstaged changes, I can then make them staged and then type a commit message, commit them to main and then push them to GitHub (I think that's how that works).
 
 4/1/21
+
+1. Matched the text colour with my Twitch channel. Will change the font to be more old school computer-y.
