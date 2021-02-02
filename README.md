@@ -17,3 +17,7 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 8/1/21
 
     1. Not many updates recently as I've been doing JS. Yvonne said that most people use VS Code so I'm using that now and am gunna test how that works. Will update the text on the website to try and get the hang of pushing from here.
+
+2/2/21
+
+    1. I've been digging into JavaScript and it's tricky! I'm gunna revise HTML and add to my website as I go back through the HTML challenges.
