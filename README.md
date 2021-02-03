@@ -29,3 +29,9 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 1. I've been digging into JavaScript and it's tricky! I'm gunna revise HTML and add to my website as I go back through the HTML challenges.
 
 2. Just realised that this document is in markdown so I'm gunna now go through and edit it so that it displays properly.
+
+---
+
+#### 3/2/21
+
+1. Continuing going back through the HTML challenges.
