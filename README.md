@@ -39,3 +39,5 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 1. Continuing going back through the HTML challenges.
 
 2. Added a picture of me :)
+
+3. Added a bunch of stuff including lists, kittens and a form! Practicing this stuff is really helpful
