@@ -2,6 +2,8 @@
 
 This README is for my website and will have note relevant changes, stuff I'm working on, thoughts and the and the things I've learned/resources I've used to be able to do stuff.
 
+---
+
 #### 3/1/21
 
 1. Created this repository using the GitHub guide and followed the guide (https://pages.github.com/) to get a website set up on GitHub Pages. Hopefully that has worked. Next I need to add an index file.
@@ -35,3 +37,5 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 #### 3/2/21
 
 1. Continuing going back through the HTML challenges.
+
+2. Added a picture of me :)
