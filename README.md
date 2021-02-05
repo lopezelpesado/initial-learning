@@ -45,3 +45,9 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 #### 4/2/21
 
 1. Still revising HTML challenges and practicing using the website, this time on my laptop
+
+#### 5/2/21
+
+1. Forgot to install GitHub Desktop on my laptop so wasn't able to commit/push yesterday 🤦‍♂️ Installed now and away my changes went!
+
+2. I'll continue HTML relearning and try to add comments to the stuf I add that'll help me remember what stuff is for.
