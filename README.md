@@ -41,3 +41,7 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 2. Added a picture of me :)
 
 3. Added a bunch of stuff including lists, kittens and a form! Practicing this stuff is really helpful
+
+#### 4/2/21
+
+1. Still revising HTML challenges and practicing using the website, this time on my laptop
