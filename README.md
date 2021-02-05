@@ -50,4 +50,4 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 
 1. Forgot to install GitHub Desktop on my laptop so wasn't able to commit/push yesterday 🤦‍♂️ Installed now and away my changes went!
 
-2. I'll continue HTML relearning and try to add comments to the stuf I add that'll help me remember what stuff is for.
+2. I'll continue HTML relearning and try to add comments to the stuff I add that'll help me remember what stuff is for.
