@@ -55,3 +55,5 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 #### 8/2/21
 
 1. Here we go again, revising HTML and adding to website.
+
+2. Added some checkboxes and added some divs.
