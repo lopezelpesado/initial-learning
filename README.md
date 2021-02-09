@@ -57,3 +57,7 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 1. Here we go again, revising HTML and adding to website.
 
 2. Added some checkboxes and added some divs.
+
+#### 9/2/21
+
+1. Back at it again with HTML revision. Good news! Coaching is starting on Thursday!
