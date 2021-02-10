@@ -74,4 +74,4 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 
 #### 10/2/21
 
-1. I am once again revising HTML and have moved on to CSS
+1. I am once again revising HTML and have moved on to CSS. Also added the breaks between days
