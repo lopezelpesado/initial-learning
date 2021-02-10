@@ -42,9 +42,13 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 
 3. Added a bunch of stuff including lists, kittens and a form! Practicing this stuff is really helpful
 
+---
+
 #### 4/2/21
 
 1. Still revising HTML challenges and practicing using the website, this time on my laptop
+
+---
 
 #### 5/2/21
 
@@ -52,12 +56,22 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 
 2. I'll continue HTML relearning and try to add comments to the stuff I add that'll help me remember what stuff is for.
 
+---
+
 #### 8/2/21
 
 1. Here we go again, revising HTML and adding to website.
 
 2. Added some checkboxes and added some divs.
 
+---
+
 #### 9/2/21
 
 1. Back at it again with HTML revision. Good news! Coaching is starting on Thursday!
+
+---
+
+#### 10/2/21
+
+1. I am once again revising HTML and have moved on to CSS
