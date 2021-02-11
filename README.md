@@ -82,4 +82,8 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 
 1. Today is Thursday and also the start of the coaching program! Gunna continue revising CSS and start by making my face round.
 
-2. Having fun with CSS, made my about section look really pretentious
+2. Having fun with CSS, made my about section look really pretentious.
+
+3. Padding! Here we go, now I can hopefully make the website look a lot better
+
+4. Switched font to VT323 which is more like the Alien: Isolation terminal font that I love
