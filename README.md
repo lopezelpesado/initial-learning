@@ -82,3 +82,4 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 
 1. Today is Thursday and also the start of the coaching program! Gunna continue revising CSS and start by making my face round.
 
+2. Having fun with CSS, made my about section look really pretentious
