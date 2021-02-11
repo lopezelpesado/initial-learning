@@ -75,3 +75,10 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 #### 10/2/21
 
 1. I am once again revising HTML and have moved on to CSS. Also added the breaks between days
+
+---
+
+#### 11/2/21
+
+1. Today is Thursday and also the start of the coaching program! Gunna continue revising CSS and start by making my face round.
+
