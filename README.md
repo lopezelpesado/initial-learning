@@ -93,4 +93,8 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 #### 12/2/21
 
 1. First workshop yesterday was great, can't wait for the next one and to start working with everyone! For now, I will continue revising HTML and CSS on freeCodeCamp and try some projects on there too. Gregor mentioned not copying and pasting code but typing it out to aid learning so I will try and do that.
+
 2. More padding, gunna try and set all the padding manually
+
+3. Margins now, hopefully I can make the author bit look better with some margins, maybe if I put the text in a div separate to the box itself
+
