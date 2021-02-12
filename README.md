@@ -103,3 +103,6 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 5. Now for some [attr=value] selectors, although it is throwing up errors when I used the notaion from freeCodeCamp here: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
 I'll try it and see.
 
+6. Weirdly the tutorial didn't seem to mention that you should specify which element to target so I'll try adding "input" to the start of the attribute selector
+
+7. Scratch that, I'm an idiot. Would help if I got the syntax right, used an : instead of = 🤦‍♂️
