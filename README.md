@@ -98,3 +98,4 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 
 3. Margins now, hopefully I can make the author bit look better with some margins, maybe if I put the text in a div separate to the box itself
 
+4. Let's tidy up some margin and padding code with clockwise notation 🕑
