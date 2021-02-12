@@ -87,3 +87,10 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 3. Padding! Here we go, now I can hopefully make the website look a lot better
 
 4. Switched font to VT323 which is more like the Alien: Isolation terminal font that I love
+
+---
+
+#### 12/2/21
+
+1. First workshop yesterday was great, can't wait for the next one and to start working with everyone! For now, I will continue revising HTML and CSS on freeCodeCamp and try some projects on there too. Gregor mentioned not copying and pasting code but typing it out to aid learning so I will try and do that.
+2. More padding, gunna try and set all the padding manually
