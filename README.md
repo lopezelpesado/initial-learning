@@ -99,3 +99,7 @@ This README is for my website and will have note relevant changes, stuff I'm wor
 3. Margins now, hopefully I can make the author bit look better with some margins, maybe if I put the text in a div separate to the box itself
 
 4. Let's tidy up some margin and padding code with clockwise notation 🕑
+
+5. Now for some [attr=value] selectors, although it is throwing up errors when I used the notaion from freeCodeCamp here: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
+I'll try it and see.
+
