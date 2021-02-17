@@ -114,3 +114,5 @@ I'll try it and see.
 1. Bit of a break there but I'm ready to get coding again. Will continue revising the freeCodeCamp challenges and adding to the website. Opened VS Code to find unsaved changes 😬
 
 2. That was weird, my index on VS was older than what was on GitHub. I think I've fixed it but will need to watch out for that in future.
+
+3. WE've moved on to ABSOLUTE units and relative units now, gunna try using ems and mms and see what happens.
