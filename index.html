@@ -26,10 +26,16 @@
 
     <style>
 
+      :root {
+
+        --stream-color: hsl(121, 100%, 49%) /* if I change my stream colours I can change this variable and update wherever it is used */
+
+      }
+
       body {
 
         background-color: black;
-        color: hsl(121, 100%, 49%);
+        color: var(--stream-color);
         font-family: 'VT323', monospace; /* 'Press Start 2P', monospace; (alternate font) */
 
       }

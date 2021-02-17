@@ -1,6 +1,6 @@
 # lopezelpesado.github.io
 
-This README is for my website and will have note relevant changes, stuff I'm working on, thoughts and the and the things I've learned/resources I've used to be able to do stuff.
+This README is for my website and will note relevant changes, stuff I'm working on, thoughts and the and the things I've learned/resources I've used to be able to do stuff.
 
 ---
 
@@ -117,4 +117,13 @@ I'll try it and see.
 
 3. WE've moved on to ABSOLUTE units and relative units now, gunna try using ems and mms and see what happens.
 
-4. looks OK on PC but totally broken the author section on mobile
+4. looks OK on PC but totally broken the author section on mobile, will have to fix
+
+5. Now onto precedence in CSS: element < class < id, bottom < top, class < inline & finally !important is king
+
+6. Colours! (or Colors!), I think I prefer hsl to hex or rgb
+
+7. CSS variables sound cool, instead of setting a CSS property to a value you can set it to a variable and so you can set lots of different properties to the same variable and then
+change them all at once by changing the variable's value, nice
+
+8. Added a CSS variable for my stream colour
