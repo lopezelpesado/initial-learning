@@ -106,3 +106,11 @@ I'll try it and see.
 6. Weirdly the tutorial didn't seem to mention that you should specify which element to target so I'll try adding "input" to the start of the attribute selector
 
 7. Scratch that, I'm an idiot. Would help if I got the syntax right, used an : instead of = 🤦‍♂️
+
+---
+
+#### 17/2/21
+
+1. Bit of a break there but I'm ready to get coding again. Will continue revising the freeCodeCamp challenges and adding to the website. Opened VS Code to find unsaved changes 😬
+
+2. That was weird, my index on VS was older than what was on GitHub. I think I've fixed it but will need to watch out for that in future.
