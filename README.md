@@ -138,4 +138,4 @@ change them all at once by changing the variable's value, nice
 
 4. Fixed! Will need to revisit my messing around with borders. Also added shadow to the text
 
-5. 
+5. Text shadow isn't working so will have to figure that one out, will comment out for now
