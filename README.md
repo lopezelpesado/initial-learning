@@ -141,3 +141,5 @@ change them all at once by changing the variable's value, nice
 5. Text shadow isn't working so will have to figure that one out, will comment out for now
 
 6. Will move on to revising the homework modules as Applied Visual Design is not on there, moving on to "Responsive Web Design Principles", will return to "Decrease the Opacity of an Element" later
+
+7. Media queries first, will design for desktop with alternate styling for mobile
