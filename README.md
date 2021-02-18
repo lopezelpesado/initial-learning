@@ -143,3 +143,5 @@ change them all at once by changing the variable's value, nice
 6. Will move on to revising the homework modules as Applied Visual Design is not on there, moving on to "Responsive Web Design Principles", will return to "Decrease the Opacity of an Element" later
 
 7. Media queries first, will design for desktop with alternate styling for mobile
+
+8. Gunna try flexing the bit with my face and about section, see what happens
