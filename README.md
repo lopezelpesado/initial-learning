@@ -135,3 +135,7 @@ change them all at once by changing the variable's value, nice
 2. Shadows! I'm gunns try and get some glow on the Standby and picture
 
 3. Shadows aren't working but I think it might be because I got rid of all borders and margins so I'm gunna uncomment them and see what happens
+
+4. Fixed! Will need to revisit my messing around with borders. Also added shadow to the text
+
+5. 
