@@ -145,3 +145,5 @@ change them all at once by changing the variable's value, nice
 7. Media queries first, will design for desktop with alternate styling for mobile
 
 8. Gunna try flexing the bit with my face and about section, see what happens
+
+9. now reverse it
