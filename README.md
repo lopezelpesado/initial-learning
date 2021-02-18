@@ -127,3 +127,8 @@ I'll try it and see.
 change them all at once by changing the variable's value, nice
 
 8. Added a CSS variable for my stream colour
+
+#### 18/2/21
+
+1. It's tutorial day once again! And we're onto "Applied Visual Design"! Great! Hopefully my website will start to look a bit more design now
+
