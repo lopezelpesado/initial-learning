@@ -133,3 +133,5 @@ change them all at once by changing the variable's value, nice
 1. It's tutorial day once again! And we're onto "Applied Visual Design"! Great! Hopefully my website will start to look a bit more design now
 
 2. Shadows! I'm gunns try and get some glow on the Standby and picture
+
+3. Shadows aren't working but I think it might be because I got rid of all borders and margins so I'm gunna uncomment them and see what happens
