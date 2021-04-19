@@ -128,6 +128,8 @@ change them all at once by changing the variable's value, nice
 
 8. Added a CSS variable for my stream colour
 
+---
+
 #### 18/2/21
 
 1. It's tutorial day once again! And we're onto "Applied Visual Design"! Great! Hopefully my website will start to look a bit more design now
@@ -147,3 +149,11 @@ change them all at once by changing the variable's value, nice
 8. Gunna try flexing the bit with my face and about section, see what happens
 
 9. now reverse it
+
+---
+
+#### 19/4/21
+
+1. It's been 2 months and I've learnt so much. The coaching has been going great and I'm really enjoying working with other people again. Learning with others feels great. I feel like I've come along way, particularly with JavaScript. Now it's time to focus on my application website. I need to completely rework this website. I don't feel confident with CSS and laying things out nicely. I created a simple tribute page [here](https://codepen.io/lopezelpesado/pen/ZELBbqv) which I'm really happy with but getting the different elements where I wanted them to go was very much a trial and error process. Tonight I am going to a meetup hosted by Founders and Coders (FAC) and I hope to be able to get some help with this. I'm going install live server too which is an extension which creates an auto refreshing view of your webpage. I also need to seperate out my CSS and start a JavaScript file so I'm gunna start by figuring that out. Let's go!
+
+---
