@@ -4,7 +4,7 @@
   
   Gotta have some comments in there.
 
-  An idea for the ole website:
+  An idea for the website:
 
   I wanted it to be old school style but maybe it should be regular but with a button that switches it to old school.
 
@@ -13,6 +13,8 @@
 <html> <!-- Once upon a time... -->
 
   <head>
+
+    <link rel="stylesheet" href="retro.css" id="css">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
 
@@ -24,105 +26,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet"> <!-- for VT323, real nice old school computer font -->
 
-    <style>
-
-      :root {
-
-        --stream-color: hsl(121, 100%, 49%) /* if I change my stream colours I can change this variable and update wherever it is used */
-
-      }
-
-      body {
-
-        background-color: black;
-        color: var(--stream-color, white);
-        font-family: 'VT323', monospace; /* 'Press Start 2P', monospace; (alternate font) */
-
-      }
-
-      .white-link {
-
-        color: white;
-        
-      }
-
-      /* p {
-
-        font-size: 24px;
-
-      } gunna try commenting this out to see if it fixes the font on the author card */
-
-      .codeCamp {
-
-        font-family: 'Cutive Mono', monospace; /* as close to the freeCodeCamp logo font I think I can get with Google Fonts */
-
-      }
-
-      .smoller-img {
-
-        width: 500px;
-        border-radius: 50%; /* should make pic a circle */
-
-      }
-
-      #standby {
-
-        border-color: var(--stream-color);
-        border-width: 10px;
-        border-style: solid;
-        text-align: center;
-        padding: 1em;
-        margin: 1.5em;
-        font-size: 100px;
-        font-weight: bold;
-        box-shadow: 0px 0px 10px 0px var(--stream-color), 0px 0px 10px 0px var(--stream-color) inset;
-        /* text-shadow: 0px 0px 10px var(--stream-color), 0px 0px 10px var(--stream-color) inset; to try and fix later */
-
-      }
-
-      #me {
-
-        display: flex;
-        flex-direction: row-reverse;
-
-      }
-
-      #about-the-author {
-
-        background-color: wheat;
-        font-family: 'Parisienne', cursive; /* should make my about section look real pretentious */
-        text-align: center;
-        color: darkslategrey;
-        font-size: 40px;
-        border-radius: 10px;
-        padding-top: 2cm 6cm 2cm 6cm;
-        margin: 12cm;
-
-      }
-
-      #about-the-author-text {
-
-        margin: 15px 15px 15px 15px;
-
-      }
-
-      [type='radio'] {
-
-        margin: 20px 20px 20px 20px;
-        border: 20px 20px 20px 20px;
-
-      }
-
-      [type='checkbox'] {
-
-        margin: 20px 20px 20px 20px;
-        border: 20px 20px 20px 20px;
-
-      }
-
-      @media (max-width: 480px) {} /* common max width for mobile according to https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/ */
-      
-    </style>
+    <script src="script.js"></script>
 
     <title>lopezelpesado</title>
 
@@ -131,6 +35,12 @@
   <body>
 
     <main>
+
+      <div>
+
+        <button type="button" id="styleSwitcher">Make it Modern</button>
+
+      </div>
 
       <div>
 
@@ -158,8 +68,8 @@
 
           <a href="https://www.freecodecamp.org/lopezelpesado" target="_blank">
           
-            <img class="smoller-img" src="https://bit.ly/2MogIeS" alt="A close up of a man's face looking directly at the camera and slightly smiling against an orange wall, 
-            he has short dark brown hair and a black moustache and goatee.">
+            <img class="smoller-img" src="https://bit.ly/3edmHgb" alt="A close up of a man's face looking directly at the camera and slightly smiling against an orange wall, 
+            he has short dark brown hair and a black moustache and goatee."> <!-- The bit.ly link is to my face on my OneDrive -->
   
           </a>
 
