@@ -8,10 +8,10 @@ styleSwticher.onclick = function () {
 
         styleSwticher.textContent = "Make it Retro";
 
-    } /*else if (styleSwticher.textContent === "Make it Retro") {
+    } else if (styleSwticher.textContent === "Make it Retro") {
 
         styleSwticher.textContent = "Make it Retro";
 
-    }*/
+    }
 
 }
