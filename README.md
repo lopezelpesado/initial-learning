@@ -154,8 +154,14 @@ change them all at once by changing the variable's value, nice
 
 #### 19/4/21
 
-1. It's been 2 months and I've learnt so much. The coaching has been going great and I'm really enjoying working with other people again. Learning with others feels great. I feel like I've come along way, particularly with JavaScript. Now it's time to focus on my application website. I need to completely rework this website. I don't feel confident with CSS and laying things out nicely. I created a simple tribute page [here](https://codepen.io/lopezelpesado/pen/ZELBbqv) which I'm really happy with but getting the different elements where I wanted them to go was very much a trial and error process. Tonight I am going to a meetup hosted by Founders and Coders (FAC) and I hope to be able to get some help with this. I'm going install live server too which is an extension which creates an auto refreshing view of your webpage. I also need to seperate out my CSS and start a JavaScript file so I'm gunna start by figuring that out. Let's go!
+1. It's been 2 months and I've learnt so much. The coaching has been going great and I'm really enjoying working with other people again. Learning with others feels great. I feel like I've come along way, particularly with JavaScript. Now it's time to focus on my application website. I need to completely rework this website. I don't feel confident with CSS and laying things out nicely. I created a [simple tribute page](https://codepen.io/lopezelpesado/pen/ZELBbqv) which I'm really happy with but getting the different elements where I wanted them to go was very much a trial and error process. Tonight I am going to a meetup hosted by Founders and Coders (FAC) and I hope to be able to get some help with this. I'm going install live server too which is an extension which creates an auto refreshing view of your webpage. I also need to seperate out my CSS and start a JavaScript file so I'm gunna start by figuring that out. Let's go!
 
 2. I've got my css into a seperate document and started a JavaScript document as well. I've added a button that I've tried to write some JS for but that doesn't seem to be working. I'm gunna now try and work on my initial retro layout
 
 ---
+
+#### 28/4/21
+
+1. Using live server and Chrome's console, you can see what's going on with your JavaScript which is super helpful. Need to remember to always console log and check!
+
+2. I've been working on [a design for my application website](https://codepen.io/lopezelpesado/pen/MWJqGPe) and a [css image filter](https://codepen.io/lopezelpesado/pen/xxgQoMN) on CodePen and I'm really happy with the results so I'm gunna move it over to GitHub.

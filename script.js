@@ -1,17 +1,22 @@
-let styleSwitcher = document.getElementById("styleSwitcher");
+const styleSwitcher = document.getElementById("styleSwitcher");
 
-styleSwticher.onclick = function () {
+styleSwitcher.onclick = function () {
 
-    if (styleSwticher.textContent === "Make it Modern") {
+    if (styleSwitcher.textContent === "Make it Modern") {
 
-        document.getElementById("css").setAttribute("id", "");
+        document.getElementById("css").setAttribute("href", "modern.css");
 
-        styleSwticher.textContent = "Make it Retro";
+        styleSwitcher.textContent = "Make it Retro";
 
-    } else if (styleSwticher.textContent === "Make it Retro") {
+    } else if (styleSwitcher.textContent === "Make it Retro") {
 
-        styleSwticher.textContent = "Make it Retro";
+        styleSwitcher.textContent = "Make it Modern";
+
+        document.getElementById("css").setAttribute("href", "retro.css");
 
     }
 
 }
+
+console.log(styleSwitcher);
+console.log(document.getElementById("css"));
