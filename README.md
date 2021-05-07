@@ -1,6 +1,8 @@
-# lopezelpesado.github.io
+# ~~lopezelpesado.github.io~~ initial-learning
 
-This README is for my website and will note relevant changes, stuff I'm working on, thoughts and the and the things I've learned/resources I've used to be able to do stuff.
+~~This README is for my website and will note relevant changes, stuff I'm working on, thoughts and the and the things I've learned/resources I've used to be able to do stuff.~~
+
+This README chronicles me learning HTML, CSS and JS from scratch at the start of 2021.
 
 ---
 
